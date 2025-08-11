@@ -19,7 +19,11 @@ public partial class GameMaster : Node
     public static GameData gameData = new GameData();
 
     //Data Types Enum
-    public enum SaveTypes { playerDat, gameDat }
+    public enum SaveTypes 
+    { 
+        playerDat, 
+        gameDat 
+    }
 
     //Save Slots
     public static PlayerData loadedPlayerDataSlot1 = new PlayerData();

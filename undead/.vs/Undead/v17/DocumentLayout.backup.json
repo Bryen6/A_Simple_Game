@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\GODOT_Game\\A_Simple_Game\\undead\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|c:\\godot_game\\a_simple_game\\undead\\scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|solutionrelative:scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|c:\\godot_game\\a_simple_game\\undead\\scripts\\gamemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|solutionrelative:scripts\\gamemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|c:\\godot_game\\a_simple_game\\undead\\scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|solutionrelative:scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|c:\\godot_game\\a_simple_game\\undead\\scripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:45:02.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GameData.cs",
               "DocumentMoniker": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\GameData.cs",
               "RelativeDocumentMoniker": "Scripts\\GameData.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "Scripts\\GameData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T05:47:35.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T05:47:35.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerData.cs",
               "DocumentMoniker": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\PlayerData.cs",
               "RelativeDocumentMoniker": "Scripts\\PlayerData.cs",
@@ -58,7 +74,7 @@
               "RelativeDocumentMoniker": "Scripts\\GameMaster.cs",
               "ToolTip": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\GameMaster.cs",
               "RelativeToolTip": "Scripts\\GameMaster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwBcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T05:43:30.725Z",
               "EditorCaption": ""
