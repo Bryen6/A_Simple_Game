@@ -5,6 +5,7 @@
 [node name="MainMenu" type="Node2D" node_paths=PackedStringArray("myLabel")]
 script = ExtResource("1_tt5f1")
 myLabel = NodePath("CanvasLayer/Control/Label")
+mySceneName = 10
 
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 

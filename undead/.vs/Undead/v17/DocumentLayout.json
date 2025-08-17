@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\GODOT_Game\\A_Simple_Game\\undead\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|c:\\godot_game\\a_simple_game\\undead\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|solutionrelative:scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|c:\\godot_game\\a_simple_game\\undead\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|solutionrelative:scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\SceneData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\SceneData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3693D7DB-326A-4DDA-B17D-973BC84EB7AB}|Undead.csproj|c:\\godot_game\\a_simple_game\\undead\\scripts\\gamemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,19 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\SceneManager.cs",
+              "ToolTip": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\SceneManager.cs",
+              "RelativeToolTip": "Scripts\\SceneManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T04:37:12.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneData.cs",
+              "DocumentMoniker": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\SceneData.cs",
+              "RelativeDocumentMoniker": "Scripts\\SceneData.cs",
+              "ToolTip": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\SceneData.cs",
+              "RelativeToolTip": "Scripts\\SceneData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T04:24:12.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Scripts\\MainMenu.cs",
               "ToolTip": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\MainMenu.cs",
               "RelativeToolTip": "Scripts\\MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T02:45:02.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GameData.cs",
               "DocumentMoniker": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\GameData.cs",
               "RelativeDocumentMoniker": "Scripts\\GameData.cs",
@@ -55,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerData.cs",
               "DocumentMoniker": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\PlayerData.cs",
               "RelativeDocumentMoniker": "Scripts\\PlayerData.cs",
@@ -63,18 +97,17 @@
               "RelativeToolTip": "Scripts\\PlayerData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T05:47:17.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T05:47:17.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GameMaster.cs",
               "DocumentMoniker": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\GameMaster.cs",
               "RelativeDocumentMoniker": "Scripts\\GameMaster.cs",
               "ToolTip": "C:\\GODOT_Game\\A_Simple_Game\\undead\\Scripts\\GameMaster.cs",
               "RelativeToolTip": "Scripts\\GameMaster.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAYwBcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T05:43:30.725Z",
               "EditorCaption": ""
